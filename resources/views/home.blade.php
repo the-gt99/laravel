@@ -142,8 +142,7 @@
                 {
                     alert(cost / currencyCost * newCurrencyInf.cost);
 
-                } else alert("Вы ввели чушь!");
-
+                } else alert("Вы ввели чушь!!");
             });
         }
     };
